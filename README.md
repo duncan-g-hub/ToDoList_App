@@ -1,4 +1,4 @@
-# P4 : Application d'organisation de tournois d'échecs
+# ToDoList App
 
 Il s'agit d'une application permettant la gestion de tâches personnelles.
 
